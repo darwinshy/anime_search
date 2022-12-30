@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:serverpod/server.dart';
 import 'package:http/http.dart' as http;
 import 'package:html/dom.dart' as dom;
